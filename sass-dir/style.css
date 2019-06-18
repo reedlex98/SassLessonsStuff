@@ -1,0 +1,42 @@
+body {
+  background: #f37176;
+  color: #779900;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body h1 {
+  color: #779900;
+}
+body h1 span {
+  color: #779900;
+}
+body h1 b {
+  color: #779900;
+}
+body div {
+  width: 400px;
+}
+
+body h1, body div {
+  -webkit-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #f37176;
+}
+
+.error, .success {
+  border: 2px solid green;
+  padding: 20px;
+}
+
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
